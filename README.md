@@ -31,9 +31,3 @@ The projects covered in this repository typically include:
 ## 📜 Certification
 
 These projects fulfill the requirements for the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) offered by freeCodeCamp.
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/responsive-web-design-projects.git
